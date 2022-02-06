@@ -1,5 +1,5 @@
-from __future__ import division
-
+# Recurso
+# https://github.com/LaunchX-InnovaccionVirtual/CursoIntroPython/blob/main/M%C3%B3dulo%201%20-%20Primeros%20pasos/Modulo1%20-%20Primeros%20pasos.ipynb
 
 sum = 2 + 15
 print(sum)
